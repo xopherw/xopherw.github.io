@@ -46728,7 +46728,7 @@ Z.Wj.prototype={
 $1:function(a){return Z.a94(a)}}
 Z.W6.prototype={
 $0:function(){var s=this.a
-if($.a1O==="11235813"){C.aX.Dx(window,"https://xopherw.duckdns.org/fserver","_top")
+if($.a1O==="11235813"){C.aX.Dx(window,"https://xopherw.duckdns.org","_top")
 K.q2(s,!1).de()}else K.q2(s,!1).de()},
 $S:0}
 Z.W7.prototype={
